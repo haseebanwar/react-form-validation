@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+}
+.App-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  width: 6rem;
+  margin-top: -1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
