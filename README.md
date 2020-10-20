@@ -6,7 +6,7 @@ Form Validation boilerplate for React using [`validator.js`](https://github.com/
 
 ## Deployment
 
-Deployed [here](https://haseeb99.github.io/react-form-validation/)
+Deployed [here](https://haseebanwar.github.io/react-form-validation/)
 
 ## Clone and test on browser
 
